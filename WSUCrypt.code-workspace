@@ -4,5 +4,12 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"iterator": "c",
+			"string": "c",
+			"string_view": "c",
+			"vector": "c"
+		}
+	}
 }
