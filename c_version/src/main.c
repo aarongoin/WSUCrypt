@@ -264,9 +264,9 @@ void printHelp()
     printf("\tWSUCrypt -e [file] [...options]     encrypt file or ./plaintext.txt\n");
     printf("\tWSUCrypt -d [file] [...options]     decrypt file or ./ciphertext.txt\n");
     printf("\tWSUCrypt -h                         display usage instructions\n");
-    printf("options:\n");
-    printf("\t-i              read input from STDIN\n");
-    printf("\t-o [file]       output result to file or to STDOUT if no file given\n");
-    printf("\t-k file         read key from file (cannot use -p option)\n");
-    printf("\t-p password     use password as key (cannot use -k)\n");
+    // printf("options:\n");
+    // printf("\t-i              read input from STDIN\n");
+    // printf("\t-o [file]       output result to file or to STDOUT if no file given\n");
+    // printf("\t-k file         read key from file (cannot use -p option)\n");
+    // printf("\t-p password     use password as key (cannot use -k)\n");
 }
